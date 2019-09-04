@@ -1,0 +1,1 @@
+# Remove-Paragraph-Tags-From-Images-in-WordPress
